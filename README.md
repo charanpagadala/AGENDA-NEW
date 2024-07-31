@@ -82,3 +82,5 @@ npm run deploy
 
 - ​    [algorithm-visualizer](https://github.com/algorithm-visualizer)    /      [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)     
 
+### output
+![alt text](<Screenshot 2024-08-01 001829.png>)
